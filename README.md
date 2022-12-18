@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... my castle-nextjs app
-- 🌱 I’m currently learning ... MongoDb 
+- 🔭 I’m currently working on ... a React Native book review app
+- 🌱 I’m currently learning ... React Native 
 - 👯 I’m looking to collaborate on ... anything! 
 - 🤔 I’m looking for help with ... building a web scraping tool, specifically wikipedia
 - 💬 Ask me about ... PERN stack is the tech I am most familiar with
