@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... a React Native book review app
+- 🔭 I’m currently working on ... a React Native dice rolling app for table top wargaming
 - 🌱 I’m currently learning ... React Native 
 - 👯 I’m looking to collaborate on ... anything! 
 - 🤔 I’m looking for help with ... building a web scraping tool, specifically wikipedia
