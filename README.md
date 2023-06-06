@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... a React Native dice rolling app for table top wargaming
-- 🌱 I’m currently learning ... React Native 
+- 🔭 I’m currently working on ... learning Vue.js, once confident, building a paint storage web app
+- 🌱 I’m currently learning ... Vue.js 
 - 👯 I’m looking to collaborate on ... anything! 
 - 🤔 I’m looking for help with ... building a web scraping tool, specifically wikipedia
 - 💬 Ask me about ... PERN stack is the tech I am most familiar with
